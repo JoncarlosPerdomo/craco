@@ -64,7 +64,7 @@ CRACO is not meant to be backward compatible with older versions of Create React
 
 | react-scripts version | CRACO version |
 | --------------------- | ------------- |
-| 5.x.x (latest)        | 7.0.0         |
+| 5.x.x (latest)        | 7.1.0         |
 | 4.x.x                 | 6.4.5         |
 | < 4.0.0               | 5.8.0         |
 
